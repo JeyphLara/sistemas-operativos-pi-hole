@@ -1,0 +1,28 @@
+# Name: Pihole Blocklist
+# URL: https://github.com/mhhakim/pihole-blocklist
+# Last update: 13 March, 2023
+
+
+0.0.0.0-01x-merchandise.554217.xyz
+0.0.0.0-0llx.12313123.xyz
+0.0.0.0-0lx.1231312.xyz
+0.0.0.0-0lxmarket.5767435.xyz
+0.0.0.0-0lxmarket.8796556.xyz
+0.0.0.0-24sexcams.com
+0.0.0.0-anime-sex-videos-online-bbw.xxxpornosites.com
+0.0.0.0-big-boobs.tubesporno.com
+0.0.0.0-big-boobs.videossexwith.com
+0.0.0.0-free-gay-dating-personal.gaypornhubxxx.com
+0.0.0.0-kingsley-chaturbate.buporn.com
+0.0.0.0-kingsley-chaturbate.fucksvideos.com
+0.0.0.0-kingsley-chaturbate.getmasturbate.com
+0.0.0.0-kingsley-chaturbate.girlslikesex.com
+0.0.0.0-kingsley-chaturbate.sexlivechatcam.com
+0.0.0.0-lix.6900845.xyz
+0.0.0.0-lx-delivery.1212223.xyz
+0.0.0.0-lx.12store3444.xyz
+0.0.0.0-lx.26666596.xyz
+0.0.0.0-lx.38200021.xyz
+0.0.0.0-lx.45956233.xyz
+0.0.0.0-lx.71544512.xyz
+0.0.0.0-lx.8090983.xyz
