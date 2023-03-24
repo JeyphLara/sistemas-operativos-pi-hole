@@ -16,3 +16,4 @@
 0.0.0.0 lx.26666596.xyz
 0.0.0.0 lx.8090983.xyz
 0.0.0.0 uniajc.edu.co
+0.0.0.0 univalle.edu.co
